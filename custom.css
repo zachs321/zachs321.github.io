@@ -1,0 +1,104 @@
+#index{
+    background: url(22.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+#projects{
+	background: url(12.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+#blog{
+    background: url(222.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+#gands{
+    background: url(333.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+#progress{
+    background: url(44.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+#myname{
+    font-size: 38px;
+    font-family: Papyrus,fantasy;
+    font-weight: 900;
+    color: #212F3C;
+}
+a{
+    color: #212F3C;
+}
+h1 {
+    padding-bottom: 40px;
+    color: #FFFAFA;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Segoe UI",Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif;
+}
+#indexPF {
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: 20px;
+    color: #FFFAFA;
+    font-family: Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif;
+}
+#me {
+    margin-right: 15px;
+}
+#video {
+}
+.navbar-fixed-bottom{
+    background: #061D25;
+    border: 0;
+    padding: 5px 0;
+}
+.navbar-fixed-bottom a {
+    color: #FA8072;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 1px #70726F;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+.navbar-fixed-bottom a:first-child {
+    border-left: 1px #70726F;
+}
+.navbar-fixed-bottom a:hover {
+    color: white;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+#pic {
+  width: auto;
+  height: 425px;
+  max-height: 425px;
+  border-radius: 10px;
+}
+
+
+
+
